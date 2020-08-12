@@ -44,4 +44,4 @@ makefile
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-**[⬆ back to top](#description)**
+**[⬆ back to top](#PokemonBattles-Game)**
