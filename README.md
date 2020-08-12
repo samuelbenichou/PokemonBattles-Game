@@ -34,6 +34,7 @@ The great thing about void pointer is it can be used to point to any data type.
 **2. Run Locally**
 
 ```bash
+# Run the game thanks to the makefile
 makefile
 ```
 
